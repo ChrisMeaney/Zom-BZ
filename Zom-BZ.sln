@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zom-BZ", "Zom-BZ\Zom-BZ\Zom-BZ.csproj", "{D495C42A-65C3-4E92-9B28-BECE82744D0D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Zom-BZContent", "Zom-BZ\Zom-BZContent\Zom-BZContent.contentproj", "{F72F4609-73C8-46B1-9021-E2BFFE026739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D495C42A-65C3-4E92-9B28-BECE82744D0D}.Debug|x86.ActiveCfg = Debug|x86
+		{D495C42A-65C3-4E92-9B28-BECE82744D0D}.Debug|x86.Build.0 = Debug|x86
+		{D495C42A-65C3-4E92-9B28-BECE82744D0D}.Release|x86.ActiveCfg = Release|x86
+		{D495C42A-65C3-4E92-9B28-BECE82744D0D}.Release|x86.Build.0 = Release|x86
+		{F72F4609-73C8-46B1-9021-E2BFFE026739}.Debug|x86.ActiveCfg = Debug|x86
+		{F72F4609-73C8-46B1-9021-E2BFFE026739}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
